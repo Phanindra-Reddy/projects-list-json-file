@@ -4,21 +4,21 @@
             {   
                 "project_id" : "html_css_1",
                 "project_name" : "Product Landing Page",
-                "Project_image" : "",
+                "project_image" : "https://phanindra-reddy.github.io/projects_images/landing_page.jpg",
                 "project_demo_url" : "https://phanindra-reddy.github.io/product-landing-page/",
                 "Project_code_url" : "https://github.com/Phanindra-Reddy/product-landing-page"
             },
             {   
                 "project_id" : "html_css_2",
                 "project_name" : "Survey Form",
-                "Project_image" : "",
+                "project_image" : "https://phanindra-reddy.github.io/projects_images/survey_form.jpg",
                 "project_demo_url" : "https://phanindra-reddy.github.io/surveyform/",
                 "Project_code_url" : "https://github.com/Phanindra-Reddy/surveyform"
             },
             {   
                 "project_id" : "html_css_3",
                 "project_name" : "CSS Grid Website",
-                "Project_image" : "",
+                "project_image" : "https://phanindra-reddy.github.io/projects_images/grid_website.jpg",
                 "project_demo_url" : "https://phanindra-reddy.github.io/css-grid-website/",
                 "Project_code_url" : "https://github.com/Phanindra-Reddy/css-grid-website/tree/gh-pages"
             }
@@ -29,70 +29,70 @@
             {
                 "project_id" : "js_1",
                 "project_name" : "Bookmarker",
-                "Project_image" : "",
+                "project_image" : "https://phanindra-reddy.github.io/projects_images/js_bookmarker.jpg",
                 "project_demo_url" : "https://phanindra-reddy.github.io/bookmarker/",
                 "Project_code_url" : "https://github.com/Phanindra-Reddy/bookmarker"
             },
             {
                 "project_id" : "js_2",
                 "project_name" : "Memory Game",
-                "Project_image" : "",
+                "project_image" : "https://phanindra-reddy.github.io/projects_images/js_memory_game.jpg",
                 "project_demo_url" : "https://phanindra-reddy.github.io/js-memory-game/",
                 "Project_code_url" : "https://github.com/Phanindra-Reddy/js-memory-game"
             },
             {
                 "project_id" : "js_3",
                 "project_name" : "TODO App",
-                "Project_image" : "",
+                "project_image" : "https://phanindra-reddy.github.io/projects_images/js_todo_app.jpg",
                 "project_demo_url" : "https://phanindra-reddy.github.io/js-todo-app/todo.html",
                 "Project_code_url" : "https://github.com/Phanindra-Reddy/js-todo-app"
             },
             {
                 "project_id" : "js_4",
                 "project_name" : "Recipe App",
-                "Project_image" : "",
+                "project_image" : "https://phanindra-reddy.github.io/projects_images/js_recipe_app.jpg",
                 "project_demo_url" : "https://phanindra-reddy.github.io/js-recipe-app/",
                 "Project_code_url" : "https://github.com/Phanindra-Reddy/js-recipe-app"
             },
             {
                 "project_id" : "js_5",
                 "project_name" : "Contact Book",
-                "Project_image" : "",
+                "project_image" : "https://phanindra-reddy.github.io/projects_images/contact_book.jpg",
                 "project_demo_url" : "https://phanindra-reddy.github.io/js-contact-book/login.html",
                 "Project_code_url" : "https://github.com/Phanindra-Reddy/js-contact-book/tree/gh-pages"
             },
             {
                 "project_id" : "js_6",
                 "project_name" : "Digital Clock",
-                "Project_image" : "",
+                "project_image" : "https://phanindra-reddy.github.io/projects_images/js_digital_clock.jpg",
                 "project_demo_url" : "https://phanindra-reddy.github.io/digital-clock-using-javascript/clock.html",
                 "Project_code_url" : "https://github.com/Phanindra-Reddy/digital-clock-using-javascript"
             },
             {
                 "project_id" : "js_7",
                 "project_name" : "JS Expense Tracker",
-                "Project_image" : "",
+                "project_image" : "https://phanindra-reddy.github.io/projects_images/js_expense_tracker.jpg",
                 "project_demo_url" : "https://phanindra-reddy.github.io/js-expense-tracker/",
                 "Project_code_url" : "https://github.com/Phanindra-Reddy/js-expense-tracker"
             },
             {
                 "project_id" : "js_8",
                 "project_name" : "CRUD Table",
-                "Project_image" : "",
+                "project_image" : "https://phanindra-reddy.github.io/projects_images/js_crud_table.jpg",
                 "project_demo_url" : "https://phanindra-reddy.github.io/js-table-crud-app/table.html",
                 "Project_code_url" : "https://github.com/Phanindra-Reddy/js-table-crud-app"
             },
             {
                 "project_id" : "js_9",
                 "project_name" : "Whack a mole game",
-                "Project_image" : "",
+                "project_image" : "https://phanindra-reddy.github.io/projects_images/js_whack_a_mole.jpg",
                 "project_demo_url" : "https://phanindra-reddy.github.io/whack-a-mole-game/",
                 "Project_code_url" : "https://github.com/Phanindra-Reddy/whack-a-mole-game"
             },
             {
                 "project_id" : "js_10",
                 "project_name" : "Covid Tracker",
-                "Project_image" : "",
+                "project_image" : "https://phanindra-reddy.github.io/projects_images/covid_tracker.jpg",
                 "project_demo_url" : "https://mpr-covid-tracker.netlify.app/covid.html",
                 "Project_code_url" : "https://github.com/Phanindra-Reddy/covid-tracker"
             }
@@ -102,68 +102,66 @@
             {
                 "project_id" : "react_1",
                 "project_name" : "React Step Form",
-                "Project_image" : "",
+                "project_image" : "https://phanindra-reddy.github.io/projects_images/react_step_form.jpg",
                 "project_demo_url" : "https://phanindra-reddy.github.io/react-step-form/",
                 "Project_code_url" : "https://github.com/Phanindra-Reddy/react-step-form"
             },
             {
                 "project_id" : "react_2",
                 "project_name" : "Hooks TODO App",
-                "Project_image" : "",
+                "project_image" : "https://phanindra-reddy.github.io/projects_images/react_todo_app.jpg",
                 "project_demo_url" : "https://phanindra-react-hooks-todo-apps.netlify.app/",
                 "Project_code_url" : "https://github.com/Phanindra-Reddy/react-hooks-todo-app"
             },
             {
                 "project_id" : "react_3",
                 "project_name" : "Google Drive Clone",
-                "Project_image" : "",
+                "project_image" : "https://phanindra-reddy.github.io/projects_images/react_drive_clone.jpg",
                 "project_demo_url" : "https://phanindra-reddy.github.io/react-drive-clone/#/login",
                 "Project_code_url" : "https://github.com/Phanindra-Reddy/react-drive-clone"
             },
             {
                 "project_id" : "react_4",
                 "project_name" : "React Youtube Clone",
-                "Project_image" : "",
+                "project_image" : "https://phanindra-reddy.github.io/projects_images/youtube_clone.png",
                 "project_demo_url" : "https://phanindra-reddy.github.io/react-youtube-clone/",
                 "Project_code_url" : "https://github.com/Phanindra-Reddy/react-youtube-clone"
             },
             {
                 "project_id" : "react_5",
                 "project_name" : "Weather App",
-                "Project_image" : "",
+                "project_image" : "https://phanindra-reddy.github.io/projects_images/react_weather_app.jpg",
                 "project_demo_url" : "https://phanindra-reddy.github.io/react-weather-app/",
                 "Project_code_url" : "https://github.com/Phanindra-Reddy/react-weather-app"
             },
             {
                 "project_id" : "react_6",
                 "project_name" : "Google Sheets REST API",
-                "Project_image" : "",
+                "project_image" : "https://phanindra-reddy.github.io/projects_images/react_google_sheet_api.jpg",
                 "project_demo_url" : "https://phanindra-reddy.github.io/react-google-sheets-rest-api/#/",
                 "Project_code_url" : "https://github.com/Phanindra-Reddy/react-google-sheets-rest-api"
             },
             {
                 "project_id" : "react_7",
                 "project_name" : "Amazon Clone",
-                "Project_image" : "",
+                "project_image" : "https://phanindra-reddy.github.io/projects_images/amazon_clone.jpg",
                 "project_demo_url" : "https://react--clone-6137b.web.app/",
                 "Project_code_url" : "https://github.com/Phanindra-Reddy/reactjs-amazon-clone"
             },
             {
                 "project_id" : "react_8",
                 "project_name" : "React Expense Tracker",
-                "Project_image" : "",
+                "project_image" : "https://phanindra-reddy.github.io/projects_images/react_expense_tracker.jpg",
                 "project_demo_url" : "https://phanindra-reddy.github.io/react-expense-tracker/",
                 "Project_code_url" : "https://github.com/Phanindra-Reddy/react-expense-tracker"
             },
             {
                 "project_id" : "react_9",
                 "project_name" : "React Firebase Authentication",
-                "Project_image" : "",
-                "project_demo_url" : "",
+                "project_image" : "https://phanindra-reddy.github.io/projects_images/react_auth.jpg",
+                "project_demo_url" : "https://github.com/Phanindra-Reddy/react-firebase-auth",
                 "Project_code_url" : "https://github.com/Phanindra-Reddy/react-firebase-auth"
             }
         ]
     }
 }
-
-

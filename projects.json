@@ -162,6 +162,15 @@
                 "project_demo_url" : "https://github.com/Phanindra-Reddy/react-firebase-auth",
                 "Project_code_url" : "https://github.com/Phanindra-Reddy/react-firebase-auth"
             }
-        ]
+        ],
+        "nextjs" : [
+            {
+                "project_id" : "nextjs_1",
+                "project_name" : "FED Docs",
+                "project_image" : "https://phanindra-reddy.github.io/projects_images/react_step_form.jpg",
+                "project_demo_url" : "https://phanindra-reddy.github.io/react-step-form/",
+                "Project_code_url" : "https://github.com/Phanindra-Reddy/react-step-form"
+            },
+           ]
     }
 }

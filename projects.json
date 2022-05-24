@@ -161,16 +161,51 @@
                 "project_image" : "https://phanindra-reddy.github.io/projects_images/react_auth.jpg",
                 "project_demo_url" : "https://github.com/Phanindra-Reddy/react-firebase-auth",
                 "Project_code_url" : "https://github.com/Phanindra-Reddy/react-firebase-auth"
+            },
+            {
+                "project_id" : "react_10",
+                "project_name" : "Cryptocurrency App",
+                "project_image" : "https://phanindra-reddy.github.io/projects_images/cyrptoverse.jpg",
+                "project_demo_url" : "https://mpr-cryptoverse.netlify.app/",
+                "Project_code_url" : "https://github.com/Phanindra-Reddy/react-cryptoverse-app"
+            },
+            {
+                "project_id" : "react_11",
+                "project_name" : "Cryptocurrency App",
+                "project_image" : "https://phanindra-reddy.github.io/projects_images/react-google-clone.png",
+                "project_demo_url" : "https://mpr-search.netlify.app/search",
+                "Project_code_url" : "https://github.com/Phanindra-Reddy/react-google-clone"
             }
         ],
         "nextjs" : [
             {
                 "project_id" : "nextjs_1",
                 "project_name" : "FED Docs",
-                "project_image" : "https://phanindra-reddy.github.io/projects_images/react_step_form.jpg",
-                "project_demo_url" : "https://phanindra-reddy.github.io/react-step-form/",
-                "Project_code_url" : "https://github.com/Phanindra-Reddy/react-step-form"
+                "project_image" : "https://phanindra-reddy.github.io/projects_images/fed-docs.jpg",
+                "project_demo_url" : "http://fed-docs.vercel.app/",
+                "Project_code_url" : "https://github.com/Phanindra-Reddy/fed-docs"
             },
+            {
+                "project_id" : "nextjs_2",
+                "project_name" : "Resume Builder",
+                "project_image" : "https://phanindra-reddy.github.io/projects_images/resume.png",
+                "project_demo_url" : "https://mpr-resume-builder.vercel.app/",
+                "Project_code_url" : "https://github.com/Phanindra-Reddy/nextjs-resume-builder"
+            },
+            {
+                "project_id" : "nextjs_3",
+                "project_name" : "Realestate App",
+                "project_image" : "https://phanindra-reddy.github.io/projects_images/realestate-app.jpg",
+                "project_demo_url" : "https://mpr-realestate.vercel.app/",
+                "Project_code_url" : "https://github.com/Phanindra-Reddy/nextjs-realestate-app"
+            },
+            {
+                "project_id" : "nextjs_4",
+                "project_name" : "News App",
+                "project_image" : "https://phanindra-reddy.github.io/projects_images/news-app.jpg",
+                "project_demo_url" : "https://mpr-next-news-app.vercel.app/",
+                "Project_code_url" : "https://github.com/Phanindra-Reddy/mpr-next-news-app"
+            }
            ]
     }
 }

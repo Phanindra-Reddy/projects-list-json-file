@@ -180,34 +180,41 @@
         "nextjs" : [
             {
                 "project_id" : "nextjs_1",
+                "project_name" : "FindJobs",
+                "project_image" : "https://phanindra-reddy.github.io/projects_images/findjobs.jpg",
+                "project_demo_url" : "https://mpr-findjobs.vercel.app/",
+                "Project_code_url" : "https://github.com/Phanindra-Reddy/findjobs"
+            },
+            {
+                "project_id" : "nextjs_2",
                 "project_name" : "FED Docs",
                 "project_image" : "https://phanindra-reddy.github.io/projects_images/fed-docs.jpg",
                 "project_demo_url" : "http://fed-docs.vercel.app/",
                 "Project_code_url" : "https://github.com/Phanindra-Reddy/fed-docs"
             },
             {
-                "project_id" : "nextjs_2",
+                "project_id" : "nextjs_3",
                 "project_name" : "Resume Builder",
                 "project_image" : "https://phanindra-reddy.github.io/projects_images/resume.png",
                 "project_demo_url" : "https://mpr-resume-builder.vercel.app/",
                 "Project_code_url" : "https://github.com/Phanindra-Reddy/nextjs-resume-builder"
             },
              {
-                "project_id" : "nextjs_3",
+                "project_id" : "nextjs_4",
                 "project_name" : "Take Notes for Dev",
                 "project_image" : "https://phanindra-reddy.github.io/projects_images/takenotes.jpg",
                 "project_demo_url" : "https://takenotesfordev.vercel.app/",
                 "Project_code_url" : "https://github.com/Phanindra-Reddy/next-takenotes"
             },
             {
-                "project_id" : "nextjs_4",
+                "project_id" : "nextjs_5",
                 "project_name" : "Realestate App",
                 "project_image" : "https://phanindra-reddy.github.io/projects_images/realestate-app.jpg",
                 "project_demo_url" : "https://mpr-realestate.vercel.app/",
                 "Project_code_url" : "https://github.com/Phanindra-Reddy/nextjs-realestate-app"
             },
             {
-                "project_id" : "nextjs_5",
+                "project_id" : "nextjs_6",
                 "project_name" : "News App",
                 "project_image" : "https://phanindra-reddy.github.io/projects_images/news-app.jpg",
                 "project_demo_url" : "https://mpr-next-news-app.vercel.app/",
